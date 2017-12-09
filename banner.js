@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me info@longthanhrealty.com
+//website http://longthanhrealty.com or http://longthanhrealty.com
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://longthanhrealty.com' target='_blank'><img src='https://lh3.googleusercontent.com/-mgTFArieIOE/Wivw0ZnyLwI/AAAAAAAArbw/k_2RJFKpJ-49HGEuUH1oYPzNMPBX3njrgCLcBGAs/h120/20170602170537-c5d1.jpg' width='500px'/><br/>13 Tìm hiểu thông tin đất nền sân bay quốc tế Long Thành</a>. Hotline:0909215286. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
