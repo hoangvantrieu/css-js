@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://longthanhrealty.com' target='_blank'><img src='https://lh3.googleusercontent.com/-_gi-XKHq3fc/WjC475_wjlI/AAAAAAAArcc/p7MG0fdTST4n_NiV_fkofsKJKacVXA2ogCLcBGAs/h120/Untitled-1.png' width='500px'/><br/>13 Tìm hiểu thông tin đất nền sân bay quốc tế Long Thành</a>. Hotline:0909215286. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://longthanhrealty.com' target='_blank'><img src='https://lh3.googleusercontent.com/-_gi-XKHq3fc/WjC475_wjlI/AAAAAAAArcc/p7MG0fdTST4n_NiV_fkofsKJKacVXA2ogCLcBGAs/h120/Untitled-1.png' width='500px'/><br/>13 Thông tin đất nền sân bay quốc tế Long Thành</a>. Hotline Tư vấn:0898529582. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
