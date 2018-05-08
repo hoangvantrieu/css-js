@@ -1,4 +1,4 @@
-//please contact me info@longthanhrealty.com
+//please contact me https://quyhoachcuchionline.blogspot.com
 //website https://quyhoachcuchionline.blogspot.com
 
 (function($) {
