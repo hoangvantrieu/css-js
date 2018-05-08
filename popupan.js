@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://longthanhrealty.com';
+	var url_popup = 'https://quyhoachcuchionline.blogspot.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://longthanhrealty.com';
+	  // var url_ppp = 'https://quyhoachcuchionline.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
