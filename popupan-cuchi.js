@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://quyhoachcuchionline.blogspot.com/';
+	var url_popup = 'https://quyhoachhuyencuchi.blogspot.com';
 
       //<![CDATA[
-	  // var url_ppp = 'https://quyhoachcuchionline.blogspot.com/';
+	  // var url_ppp = 'https://quyhoachhuyencuchi.blogspot.com';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
