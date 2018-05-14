@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='https://quyhoachcuchionline.blogspot.com/2018/05/huong-dan-xem-thong-tin-quy-hoach-huyen-cu-chi.html'>https://quyhoachcuchionline.blogspot.com/2018/05/huong-dan-xem-thong-tin-quy-hoach-huyen-cu-chi.html"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='https://quyhoachhuyencuchi.blogspot.com'>https://quyhoachhuyencuchi.blogspot.com"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
