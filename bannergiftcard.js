@@ -1,5 +1,5 @@
-//please contact me https://quyhoachhuyencuchi.blogspot.com
-//website https://quyhoachhuyencuchi.blogspot.com
+//please contact me https://giftcardgiare.blogspot.com/
+//website https://giftcardgiare.blogspot.com/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://quyhoachhuyencuchi.blogspot.com' target='_blank'><img src='https://1.bp.blogspot.com/-9B9PxueOf5k/Wu_ScR0e9uI/AAAAAAAAuxw/795cFYNqoU0wdzqtIB_Z-FgXfwqkcQO9wCK4BGAYYCw/s1600/quy%2Bhoach%2Bcu%2Bchi.jpg' width='500px'/><br/>     Hãy kiểm tra thông tin quy hoạch trước khi giao dịch..!</a>. Tell/Zalo/Viber:0906.968.919 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://giftcardgiare.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-WKV5Y4BxfeY/W5U-J1R3goI/AAAAAAAAv28/zJJSuQf2zHIq955jjbfk48asFrAjkkgwQCLcBGAs/s1600/gift%2Bcard.png' width='500px'/><br/>     Liên hệ ngay để nhận được GIFT CARD giá tốt nhất</a>. Tell/Zalo/Viber:0906.968.919 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
