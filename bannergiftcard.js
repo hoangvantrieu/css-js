@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://giftcardgiare.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-WKV5Y4BxfeY/W5U-J1R3goI/AAAAAAAAv28/zJJSuQf2zHIq955jjbfk48asFrAjkkgwQCLcBGAs/s1600/gift%2Bcard.png' width='500px'/><br/>     Liên hệ ngay để nhận được GIFT CARD giá tốt nhất</a>. Tell/Zalo/Viber:0906.968.919 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://giftcardgiare.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-dELLyV5QTDw/W5VGfYH06hI/AAAAAAAAv3U/Stz69vRa0b8exqnVyHf2u8Tw6MafUpHegCLcBGAs/s1600/banner.png' width='500px'/><br/>     Liên hệ ngay để nhận được GIFT CARD giá tốt nhất</a>. Tell/Zalo/Viber:0906.968.919 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
